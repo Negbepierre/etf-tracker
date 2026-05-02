@@ -5,7 +5,7 @@ import {
   Tooltip, Legend, ResponsiveContainer
 } from "recharts";
 
-const API = "http://localhost:5002";
+const API = "https://etf-tracker-api-q3rz.onrender.com";
 
 const ETF_LIST = [
   { id: "CSPX", label: "CSPX", name: "iShares Core S&P 500", benchmark: "S&P 500" },
